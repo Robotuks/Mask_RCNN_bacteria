@@ -1,0 +1,1 @@
+python bacteria/bacteria.py train --dataset=datasets/bacteria --weights=coco
